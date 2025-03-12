@@ -1,0 +1,82 @@
+[
+    {
+        "clubname": "BARCELONA",
+        "clublogo": "🔴🔵",
+        "clubshortname": "FCB",
+        "players": [
+            {
+                "playername": "Messi"
+            },
+            {
+                "playername": "Neymar"
+            },
+            {
+                "playername": "Suarez"
+            },
+            {
+                "playername": "Lewandowski"
+            },
+            {
+                "playername": "Iniesta"
+            },
+            {
+                "playername": "Ronaldinho"
+            },
+            {
+                "playername": "Xavi"
+            },
+            {
+                "playername": "De Jong"
+            },
+            {
+                "playername": "Pique"
+            },
+            {
+                "playername": "Alves"
+            },
+            {
+                "playername": "Ter Stegen"
+            }
+        ]
+    },
+    {
+        "clubname": "REAL MADRID",
+        "clublogo": "⚪⚪",
+        "clubshortname": "RMA",
+        "players": [
+            {
+                "playername": "Ronaldo7"
+            },
+            {
+                "playername": "Ronaldo9"
+            },
+            {
+                "playername": "Benzema"
+            },
+            {
+                "playername": "Raul"
+            },
+            {
+                "playername": "Modric"
+            },
+            {
+                "playername": "Kross"
+            },
+            {
+                "playername": "Zidane"
+            },
+            {
+                "playername": "Ramos"
+            },
+            {
+                "playername": "Camavinga"
+            },
+            {
+                "playername": "Carvahal"
+            },
+            {
+                "playername": "Casilas"
+            }
+        ]
+    }
+]
